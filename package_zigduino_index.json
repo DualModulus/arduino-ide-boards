@@ -22,18 +22,7 @@
                   { "name": "zigduino_r1"},
                   { "name": "zigduino_r2"}
                ],
-               "toolsDependencies": [
-		    {
-		      "packager": "Arduino",
-		      "name": "avr-gcc",
-		      "version": "4.8.1-arduino5"
-		    },
-		    {
-		      "packager": "Arduino",
-		      "name": "avrdude",
-		      "version": "6.0.1-arduino5"
-		    }
-		  ]
+               "toolsDependencies": []
             }
          ],
          "tools":[]
