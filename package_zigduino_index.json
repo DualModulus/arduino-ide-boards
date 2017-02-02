@@ -24,12 +24,12 @@
                ],
                "toolsDependencies": [
 		    {
-		      "packager": "Zigduino",
+		      "packager": "Arduino",
 		      "name": "avr-gcc",
 		      "version": "4.8.1-arduino5"
 		    },
 		    {
-		      "packager": "Seeeduino",
+		      "packager": "Arduino",
 		      "name": "avrdude",
 		      "version": "6.0.1-arduino5"
 		    }
