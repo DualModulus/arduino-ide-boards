@@ -20,7 +20,7 @@
                },
                "boards":[
                   { "name": "zigduino_r1"},
-                  { "name": "zigduino_r2"},
+                  { "name": "zigduino_r2"}
                ],
                "toolsDependencies":[]
             }
