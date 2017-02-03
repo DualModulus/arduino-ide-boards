@@ -11,10 +11,10 @@
                "architecture": "Zigduino_avr",
                "version": "1.0.0",
                "category": "Contributed",
-               "url": "https://github.com/DualModulus/arduino-ide-boards/raw/master/zigduino-avr_1.0.0v.zip",
-               "archiveFileName": "zigduino-avr_1.0.0v.zip",
-               "checksum": "SHA-256:5beeaabed8c150ae539aa23af2dc6fdfa032baeb0080a42aff8106ab72641d0c",
-               "size": "5027792",
+               "url": "https://github.com/DualModulus/arduino-ide-boards/raw/master/zigduino-avr_1.0.0.zip",
+               "archiveFileName": "zigduino-avr_1.0.0.zip",
+               "checksum": "SHA-256:ede06bde91e1b0b5207e8e8e5a2b79e22b29143bcb5841a6da39875993dcf13d",
+               "size": "5045271",
                "help":{
                   "online":" "
                },
