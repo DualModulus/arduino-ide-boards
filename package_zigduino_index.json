@@ -8,13 +8,13 @@
          "platforms":[
             {
                "name": "Zigduino AVR Boards",
-               "architecture": "Zigduino_avr",
+               "architecture": "avr",
                "version": "1.0.0",
                "category": "Contributed",
                "url": "https://github.com/DualModulus/arduino-ide-boards/raw/master/zigduino-avr_1.0.0.zip",
                "archiveFileName": "zigduino-avr_1.0.0.zip",
-               "checksum": "SHA-256:38fbcfed1dfc255958fc57c127402495e267501837a3b48587f1c8a94a04e9c5",
-               "size": "5045271",
+               "checksum": "SHA-256:a1fbf612600c6dbed98e7d13825159cf365f8187eb05dd123e38067f36a0d479",
+               "size": "5045283",
                "help":{
                   "online":" "
                },
